@@ -1,4 +1,4 @@
-# ABDG  (ابجد)
+# ABGD  (ابجد)
 ### description
 A simple js library that help calculating Arabic sentences calculation
 
@@ -7,7 +7,7 @@ install via npm
 ``` npm install  abgd```
 
 or using yarn
-``` yarn install ```
+``` yarn install abgd ```
 
 ### resources
  - [Historical overview]()
