@@ -8,7 +8,19 @@ install via npm
 
 or using yarn
 ``` yarn install abgd ```
+## Examples
 
+```javascript
+const abgd = require( 'abgd' );
+console.log( abgd.getNumericalValue( 'ابجد' ) ); // 10
+console.log( abgd.getArabicIndex( 1234 ) ); // غريد
+```
+
+```javascript
+import {} from 'abgd';
+console.log( getNumericalValue( 'ابجد' ) ); // 10
+console.log( getArabicIndex( 1234 ) ); // غريد
+```
 ### resources
  - [Historical overview]()
  
