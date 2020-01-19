@@ -1,0 +1,8 @@
+{
+  "name": "abgd",
+  "version": "0.0.91",
+  "description": "A light library for arabic charters indexing system",
+  "main": "index.js",
+  "author": "Ahmed Korim",
+  "license": "MIT"
+}
