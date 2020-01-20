@@ -17,7 +17,7 @@ console.log( abgd.getArabicIndex( 1234 ) ); // غريد
 ```
 
 ```javascript
-import {} from 'abgd';
+import {getNumericalValue,getArabicIndex} from 'abgd';
 console.log( getNumericalValue( 'ابجد' ) ); // 10
 console.log( getArabicIndex( 1234 ) ); // غريد
 ```

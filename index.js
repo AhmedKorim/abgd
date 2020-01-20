@@ -1,7 +1,7 @@
 // أبل 1230
 // alf => 1 , baa => 2  , lam 30
 var singleDigit = 'ابجدهوزحط';
-var doubleDigits = 'حطيكلمنسعفص';
+var doubleDigits = 'يكلمنسعفص';
 var tipple = 'قرشتثخذضظ'
 var quad = "غ"; //100
 
