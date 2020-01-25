@@ -1,6 +1,10 @@
 {
   "name": "abgd",
-  "version": "0.0.94",
+  "version": "0.0.96",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmedKorim/abgd"
+  },
   "description": "A light library for arabic charters indexing system",
   "main": "index.js",
   "author": "Ahmed Korim",
